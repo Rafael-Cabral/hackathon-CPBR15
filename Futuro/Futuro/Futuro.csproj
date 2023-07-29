@@ -1,0 +1,54 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Configurações.png" />
+    <None Remove="Couple.png" />
+    <None Remove="Dashboard.png" />
+    <None Remove="Event.png" />
+    <None Remove="Event1.png" />
+    <None Remove="Great Only.png" />
+    <None Remove="Great.png" />
+    <None Remove="Health.png" />
+    <None Remove="New Event.png" />
+    <None Remove="Onboarding.png" />
+    <None Remove="Onboarding2.png" />
+    <None Remove="Onboarding3.png" />
+    <None Remove="Open Bank.png" />
+    <None Remove="Relatorio.png" />
+    <None Remove="Scan.png" />
+    <None Remove="Sign up.png" />
+    <None Remove="Splash Screen.png" />
+    <None Remove="Splash.png" />
+    <None Remove="Type Select.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Configurações.png" />
+    <Resource Include="Couple.png" />
+    <Resource Include="Dashboard.png" />
+    <Resource Include="Event.png" />
+    <Resource Include="Event1.png" />
+    <Resource Include="Great Only.png" />
+    <Resource Include="Great.png" />
+    <Resource Include="Health.png" />
+    <Resource Include="New Event.png" />
+    <Resource Include="Onboarding.png" />
+    <Resource Include="Onboarding2.png" />
+    <Resource Include="Onboarding3.png" />
+    <Resource Include="Open Bank.png" />
+    <Resource Include="Relatorio.png" />
+    <Resource Include="Scan.png" />
+    <Resource Include="Sign up.png" />
+    <Resource Include="Splash Screen.png" />
+    <Resource Include="Splash.png" />
+    <Resource Include="Type Select.png" />
+  </ItemGroup>
+
+</Project>
